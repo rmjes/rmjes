@@ -18,7 +18,9 @@ I'm participating in the 2026–2027 Break the Code: HL7 Standards learning prog
 
 I'm exploring healthcare interoperability standards, including HL7 v2, CDA, and FHIR, and developing my understanding of how clinical information can be exchanged between healthcare and public-health systems.
 
-I'll document relevant learning exercises and application development work here as I progress.https://github.com/rmjes/public-health-informatics-portfolio
+I'll document relevant learning exercises and application development work here as I progress.
+
+[View my Public Health Informatics Portfolio](https://github.com/rmjes/public-health-informatics-portfolio)
 
 ## Current Project
 
