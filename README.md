@@ -12,13 +12,13 @@ My background includes a Bachelor of Science in Nursing (BSN) and Certified Prof
 - HL7 and FHIR: Healthcare interoperability, clinical data exchange, and FHIR resources.
 - Clinical Decision Support: Understanding how healthcare information systems support clinical decisions.
 
-## HL7 Break the Code: HL7 Standards
+## HL7 Break the Code: HL7 Standards 
 
 I'm participating in the 2026–2027 Break the Code: HL7 Standards learning program.
 
 I'm exploring healthcare interoperability standards, including HL7 v2, CDA, and FHIR, and developing my understanding of how clinical information can be exchanged between healthcare and public-health systems.
 
-I'll document relevant learning exercises and application development work here as I progress.
+I'll document relevant learning exercises and application development work here as I progress.https://github.com/rmjes/public-health-informatics-portfolio
 
 ## Current Project
 
